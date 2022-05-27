@@ -28,7 +28,6 @@ function Footer(){
     <footer>
       Made with React. Cat Fact API https://catfact.ninja/
     </footer>
-
   )
 }
 
